@@ -2,3 +2,10 @@
 
 Setting up Salesforce Environment
     
+                ===================================================================
+
+                                Using Force.com SOAP APIs to integrate
+
+Authenticating SOAP API Users: Connect to Salesforce using POSTMAN
+    https://www.postman.com/salesforce-developers/workspace/salesforce-developers/request/
+    
