@@ -8,4 +8,5 @@ Setting up Salesforce Environment
 
 Authenticating SOAP API Users: Connect to Salesforce using POSTMAN
     https://www.postman.com/salesforce-developers/workspace/salesforce-developers/request/
+SOAP Requests with POSTMAN: Query Account records
     
