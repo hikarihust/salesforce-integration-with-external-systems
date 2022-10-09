@@ -12,3 +12,5 @@ SOAP Requests with POSTMAN: Query Account records
 SOAPQueryStudent
 Working with SOAP API Headers: Mru Header
 Insert Multipl School Records
+Insert Multiple records into different object using SOAP
+    

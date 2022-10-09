@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>   
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+  xmlns:urn="urn:enterprise.soap.sforce.com"
+  xmlns:urn1="urn:sobject.enterprise.soap.sforce.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <soapenv:Header>
+     <urn:SessionHeader>
+        <urn:sessionId>00D5g00000GYf6f!ARwAQHfhJRaZDJQF8kfQ6cRRUH7zjYpzTbc3GHWblbSXJnR5zQ49mhww4CZA398VSvVF1SLA7aEWqNKgS4VHOoYzcKphyC22</urn:sessionId>
+     </urn:SessionHeader>
+     <urn:MruHeader>
+         <urn:updateMru>true</urn:updateMru>
+     </urn:MruHeader>
+  </soapenv:Header>
+  <soapenv:Body>
+    <urn:create>
+        <urn:sObjects xsi:type="urn1:School__c">
+           <Name>Blooming Dales International School</Name>
+           <Fees__c>500</Fees__c>
+           <School_Address__c>South Carolina</School_Address__c>
+           <School_Phone__c>1110985555</School_Phone__c>	
+        </urn:sObjects>
+         <urn:sObjects xsi:type="urn1:Student__c">
+            <Student_Name__c>Sunny Malhotra</Student_Name__c>
+            <Phone_Number__c>7890987777</Phone_Number__c>
+            <Email__c>sunny_mal@hotmail.com</Email__c>
+            <School__c>a0B5g00000tpvm9EAA</School__c>
+        </urn:sObjects>
+         <urn:sObjects xsi:type="urn1:Student__c">
+            <Student_Name__c>Neha Sidana</Student_Name__c>
+            <Phone_Number__c>6780987777</Phone_Number__c>
+            <Email__c>nehaSd@gmail.com</Email__c>
+            <School__c>a0B5g00000tpvm9EAA</School__c>
+        </urn:sObjects>
+    </urn:create>
+  </soapenv:Body>
+</soapenv:Envelope>
