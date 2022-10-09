@@ -1,0 +1,2 @@
+https://login.salesforce.com/services/oauth2/token?grant_type=password&client_id=3MVG9fe4g9fhX0E7UjReq40zJn4dOe1Th2VXN6zovyOuuZvRkI_PzA3sOfHQMsL3LbAYEgxetLeoRiUnLGmjk&client_secret=6C50B4AB4D7C6E6EBB66195BEE6EE67BE4DCB60308310C552C6A558CD23130BA
+&username=vudinhquangk53@gmail.com&password=XXXXXDzKvI1Pc62VeF7U8Ym0kQo5m
