@@ -20,4 +20,5 @@ Creating a Custom SOAP Service
                             Creating Lightweight Integrations with the Force.com REST API
 
 Use Postman to call a REST API
+Create a connected app in Salesforce:  Connected Apps use the standard Oauth
     
