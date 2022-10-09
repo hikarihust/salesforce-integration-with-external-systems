@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>   
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+   xmlns="http://soap.sforce.com/schemas/class/StudentSoapService">
+  <soapenv:Header>
+     <SessionHeader>
+        <sessionId>00D5g00000GYf6f!ARwAQHfhJRaZDJQF8kfQ6cRRUH7zjYpzTbc3GHWblbSXJnR5zQ49mhww4CZA398VSvVF1SLA7aEWqNKgS4VHOoYzcKphyC22</sessionId>
+     </SessionHeader>
+  </soapenv:Header>
+  <soapenv:Body>
+     <getStudentById>
+        <stdId>a0A5g000006OO0wEAG</stdId>
+     </getStudentById>
+  </soapenv:Body>
+</soapenv:Envelope>
