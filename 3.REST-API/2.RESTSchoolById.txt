@@ -1,0 +1,1 @@
+https://training-quang-dev-ed.develop.my.salesforce.com/services/data/v55.0/sobjects/School__c/a0B5g00000tpvm7EAA

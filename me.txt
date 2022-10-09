@@ -22,4 +22,5 @@ Creating a Custom SOAP Service
 Use Postman to call a REST API
 Create a connected app in Salesforce:  Connected Apps use the standard Oauth
 Authenticating REST API users
+Execute a SOQL Query to retrieve records
     
