@@ -14,4 +14,10 @@ Working with SOAP API Headers: Mru Header
 Insert Multipl School Records
 Insert Multiple records into different object using SOAP
 Creating a Custom SOAP Service
+
+                ===================================================================
+
+                            Creating Lightweight Integrations with the Force.com REST API
+
+Use Postman to call a REST API
     
