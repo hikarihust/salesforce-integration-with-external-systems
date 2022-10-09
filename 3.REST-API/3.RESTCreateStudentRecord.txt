@@ -1,0 +1,10 @@
+https://training-quang-dev-ed.develop.my.salesforce.com/services/data/v55.0/sobjects/Student__c
+
+<Student__c>
+    <Student_Name__c>John Abraham</Student_Name__c>
+    <Phone_Number__c>6789098888</Phone_Number__c>
+    <Email__c>john@gmail.com</Email__c>
+    <Address__c>Bombay,India</Address__c>
+    <School__c>a0B5g00000tpvmvEAA</School__c>
+
+</Student__c>

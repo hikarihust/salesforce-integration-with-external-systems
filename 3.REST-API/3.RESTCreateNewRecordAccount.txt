@@ -1,0 +1,7 @@
+https://training-quang-dev-ed.develop.my.salesforce.com/services/data/v55.0/sobjects/Account
+
+{
+   "Name": "Deepika Khanna",
+   "Site": "mytutorialrack.com",
+   "Phone": "7777778888"
+}
