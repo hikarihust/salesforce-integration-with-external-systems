@@ -11,4 +11,4 @@ Authenticating SOAP API Users: Connect to Salesforce using POSTMAN
 SOAP Requests with POSTMAN: Query Account records
 SOAPQueryStudent
 Working with SOAP API Headers: Mru Header
-    
+Insert Multipl School Records
