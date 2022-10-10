@@ -25,4 +25,10 @@ Authenticating REST API users
 Execute a SOQL Query to retrieve records
 Create a record using Rest API from POSTMAN
 Creating a Custom REST API in Salesforce
+
+                ===================================================================
+
+                            Salesforce Integrations with External Systems
+
+Host External Application on local machine and update credentials.json file
     
