@@ -29,7 +29,7 @@ router.get('/', function (req, res) {
             //retrieve students by doing a query
             request({
                 
-                url: 'https://na139.salesforce.com/services/data/v35.0/query/?q=select+student_name__c,+phone_number__c,+email__c,+Address__c+from+Student__c',
+                url: 'https://training-quang-dev-ed.develop.my.salesforce.com/services/data/v55.0/query/?q=select+student_name__c,+phone_number__c,+email__c,+Address__c+from+Student__c',
 
                 method: 'GET',
                 headers: {

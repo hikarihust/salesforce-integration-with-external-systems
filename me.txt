@@ -31,4 +31,5 @@ Creating a Custom REST API in Salesforce
                             Salesforce Integrations with External Systems
 
 Host External Application on local machine and update credentials.json file
+Making a REST Call from External System to fetch Salesforce Records
     

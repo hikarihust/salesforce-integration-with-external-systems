@@ -28,8 +28,8 @@ router.get('/', function (req, res) {
             
             //retrieve schools by doing a query
             request({
-                //url: 'https://na123.salesforce.com/services/data/v35.0/query/?q=select+student_name__c,+phone_number__c,+email__c,+Address__c+from+Student__c+where+ School__r.Name+=+%273rd District%27',
-                url: 'https://na123.salesforce.com/services/data/v35.0/query/?q=select+name,+School_email__c,+fees__c,+School_phone__c,+School_address__c+from+School__c',
+                //url: 'https://training-quang-dev-ed.develop.my.salesforce.com/services/data/v55.0/query/?q=select+student_name__c,+phone_number__c,+email__c,+Address__c+from+Student__c+where+ School__r.Name+=+%273rd District%27',
+                url: 'https://training-quang-dev-ed.develop.my.salesforce.com/services/data/v55.0/query/?q=select+name,+School_email__c,+fees__c,+School_phone__c,+School_address__c+from+School__c',
 
                 method: 'GET',
                 headers: {
