@@ -25,6 +25,7 @@ Authenticating REST API users
 Execute a SOQL Query to retrieve records
 Create a record using Rest API from POSTMAN
 Creating a Custom REST API in Salesforce
+Create Nested Records
 
                 ===================================================================
 
@@ -32,4 +33,5 @@ Creating a Custom REST API in Salesforce
 
 Host External Application on local machine and update credentials.json file
 Making a REST Call from External System to fetch Salesforce Records
+Create Nested Records
     
