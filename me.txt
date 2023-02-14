@@ -36,3 +36,9 @@ Making a REST Call from External System to fetch Salesforce Records
 Create Nested Records
 Create Nested Records custom object
     
+                ===================================================================
+
+                            Salesforce BULK API
+
+Create a bulk API in Salesforce
+    
