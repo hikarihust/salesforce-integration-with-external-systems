@@ -42,4 +42,5 @@ Create Nested Records custom object
 
 Create a bulk API in Salesforce
 Salesforce Bulk Api with Example
+Salesforce Bulk API: Upload records using a CSV file in salesforce
     
