@@ -45,3 +45,9 @@ Salesforce Bulk Api with Example
 Salesforce Bulk API: Upload records using a CSV file in salesforce
 Salesforce Bulk API: Create a Transformation Spec That Defines Mappings
     
+                ===================================================================
+
+                            Salesforce Callouts: Invoking Callouts using Apex
+
+Remote site settings
+    
