@@ -50,4 +50,5 @@ Salesforce Bulk API: Create a Transformation Spec That Defines Mappings
                             Salesforce Callouts: Invoking Callouts using Apex
 
 Remote site settings
+Create an Apex class which makes the Callout to external system
     
