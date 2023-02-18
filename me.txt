@@ -52,4 +52,5 @@ Salesforce Bulk API: Create a Transformation Spec That Defines Mappings
 Remote site settings
 Create an Apex class which makes the Callout to external system
 Make HTTP Callout from Lightning component
+Make HTTP Callout From Lightning Component And Show Data inside Salesforce
     

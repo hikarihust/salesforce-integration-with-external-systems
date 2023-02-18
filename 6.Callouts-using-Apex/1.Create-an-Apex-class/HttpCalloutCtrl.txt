@@ -1,5 +1,6 @@
 public class HttpCalloutCtrl
 {
+    @AuraEnabled
     public static Map<String,Object> getCalloutResponseContents(String url)
     {
         Http h=new Http();
