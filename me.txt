@@ -60,4 +60,5 @@ Make HTTP Callout From Lightning Component And Show Data inside Salesforce
 
 Create a push topic in Salesforce
 Import Maven Project
+Sending Data from Salesforce to External System using Push Topics
     
