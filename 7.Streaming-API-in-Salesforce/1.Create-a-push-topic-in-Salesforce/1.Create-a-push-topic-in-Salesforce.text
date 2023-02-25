@@ -1,0 +1,10 @@
+PushTopic pushTopic=new PushTopic();
+pushTopic.Name='StudentUpdates';
+pushTopic.Query='select id, Student_Name__c, Address__c, Phone_Number__c, Email__c from Student__c';
+pushTopic.ApiVersion=57.0;
+pushTopic.NotifyForOperationCreate=true;
+pushTopic.NotifyForOperationDelete=true;
+pushTopic.NotifyForOperationUndelete=true;
+pushTopic.NotifyForOperationUpdate=true;
+pushTopic.NotifyForFields='Referenced';
+insert pushTopic;

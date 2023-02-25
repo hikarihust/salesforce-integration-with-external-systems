@@ -54,3 +54,9 @@ Create an Apex class which makes the Callout to external system
 Make HTTP Callout from Lightning component
 Make HTTP Callout From Lightning Component And Show Data inside Salesforce
     
+                ===================================================================
+
+                        Streaming API in Salesforce: Passing data from Salesforce to External System
+
+Create a push topic in Salesforce
+    
